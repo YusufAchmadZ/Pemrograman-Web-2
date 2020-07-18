@@ -1,5 +1,4 @@
-Aplikasi sederhana Pesan Makan Online
-* Fitur
+Aplikasi sederhana Pesan Makan Online 
 - -----------------
 - User Login
 - Data Makanan
