@@ -7,4 +7,5 @@ Aplikasi sederhana Pesan Makan Online
 - Database
 
 Ini adalah source code dari Kelompok 10 
-- UAS PEMROGRAMAN 2
+- UAS PEMROGRAMAN Web 2
+
