@@ -1,9 +1,9 @@
-Aplikasi sederhana jasa cuci kendaraan dengan PHP MySQLi.
----
-Fitur:
-- Multi user.
-- Data master
-- Cetak Nota
-- Laporan
+Aplikasi sederhana Pesan Makan Online
 
-Ini adalah source code dari https://masrud.com/post/aplikasi-cuci-mobil-motor-php-mysqli
+- User Login
+- Data Makanan
+- Cetak Laporan
+- Data Transkasi Makanan
+
+Ini adalah source code dari Kelompok 10 
+UAS PEMROGRAMAN 2
